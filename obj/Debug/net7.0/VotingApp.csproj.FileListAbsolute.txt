@@ -1,0 +1,15 @@
+C:\Users\MONSTER\GitProject\VotingApp\bin\Debug\net7.0\VotingApp.exe
+C:\Users\MONSTER\GitProject\VotingApp\bin\Debug\net7.0\VotingApp.deps.json
+C:\Users\MONSTER\GitProject\VotingApp\bin\Debug\net7.0\VotingApp.runtimeconfig.json
+C:\Users\MONSTER\GitProject\VotingApp\bin\Debug\net7.0\VotingApp.dll
+C:\Users\MONSTER\GitProject\VotingApp\bin\Debug\net7.0\VotingApp.pdb
+C:\Users\MONSTER\GitProject\VotingApp\obj\Debug\net7.0\VotingApp.csproj.AssemblyReference.cache
+C:\Users\MONSTER\GitProject\VotingApp\obj\Debug\net7.0\VotingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MONSTER\GitProject\VotingApp\obj\Debug\net7.0\VotingApp.AssemblyInfoInputs.cache
+C:\Users\MONSTER\GitProject\VotingApp\obj\Debug\net7.0\VotingApp.AssemblyInfo.cs
+C:\Users\MONSTER\GitProject\VotingApp\obj\Debug\net7.0\VotingApp.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\GitProject\VotingApp\obj\Debug\net7.0\VotingApp.dll
+C:\Users\MONSTER\GitProject\VotingApp\obj\Debug\net7.0\refint\VotingApp.dll
+C:\Users\MONSTER\GitProject\VotingApp\obj\Debug\net7.0\VotingApp.pdb
+C:\Users\MONSTER\GitProject\VotingApp\obj\Debug\net7.0\VotingApp.genruntimeconfig.cache
+C:\Users\MONSTER\GitProject\VotingApp\obj\Debug\net7.0\ref\VotingApp.dll
